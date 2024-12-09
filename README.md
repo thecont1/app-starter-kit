@@ -1,7 +1,4 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 📦 Mahesh's Streamlit App Starter Kit 
 
 Description of the app ...
 
@@ -15,11 +12,5 @@ Description of the app ...
 
 ## Section Heading
 
-This is filler text, please replace this with text for this section.
+Taking my first steps with Streamlit at Snowflake BUILD 2024.
 
-## Further Reading
-
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
